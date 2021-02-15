@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abay-2002
 - 👀 I’m interested in WEB Technology
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate with Back-end Developer
 - 📫 How to reach me akbar121202@gmail.com
 - im a self taught front-end web developer ( ͡~ ͜ʖ ͡°)
