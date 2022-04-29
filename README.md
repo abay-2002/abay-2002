@@ -15,6 +15,7 @@
 - Netlify, Firebase, Heroku.
 - Find me on Scratch: https://scratch.mit.edu/users/abay2002/ ✨
 - Linkedin: https://www.linkedin.com/in/akbar-angkasa-908a3317b/
+- Instagram: https://www.instagram.com/angkasa_akbar/
 <!---
 abay-2002/abay-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
