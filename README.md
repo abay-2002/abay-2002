@@ -8,7 +8,7 @@
 - HTML, CSS, Javascript (Asynchronous etc..) 
 - Git (VCS), GitHub
 - 🧮 Framework / Library
-- Bootstrap, Materialize, Jquery, NPM
+- Bootstrap, Materialize, Jquery, NPM, Tailwindcss
 - Sass (Pre-processor),
 - 💾 Databases and etc..
 - JSON, MongoDB, ExpressJS, NodeJS
