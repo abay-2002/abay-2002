@@ -5,6 +5,8 @@
 - 📫 How to reach me akbar121202@gmail.com
 - im a self taught web developer ( ͡~ ͜ʖ ͡°)
 - 🖥️ Skills
+
+
 == Programming fundamentals
 - type of data
 - truthy and falsy
