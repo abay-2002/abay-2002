@@ -5,7 +5,7 @@
 - 📫 How to reach me akbar121202@gmail.com
 - im a self taught web developer ( ͡~ ͜ʖ ͡°)
 - 🖥️ Skills
-== Basic programming
+== Programming fundamentals
 - type of data
 - truthy and falsy
 - variable
@@ -31,34 +31,34 @@ am i missing something? 🤔
 -- KISS
 am i missing something? 🤔
 
-=== Framework, Language, Library and Stuffs
-== ReactJS
-= JSX
-= Element
-= Component and Props
-= State and lifecycle
-= Handling Event
-= Conditional Rendering
-= Lists and Keys
-= Forms
+== Framework, Language, Library and Stuffs
+-- ReactJS
+- JSX
+- Element
+- Component and Props
+- State and lifecycle
+- Handling Event
+- Conditional Rendering
+- Lists and Keys
+- Forms
 
-== Bootstrap
-== Materialize
-== TailwindCSS
-== Jquery
-== NodeJS
-== Postman
-== Sass
-== NPM
-== ExpressJS
-== Git and Github
-== HTML
-== CSS
-== Javascript
-== C
-== Scratch
-== Netlify
-== Heroku
+- Bootstrap
+- Materialize
+- TailwindCSS
+- Jquery
+- NodeJS
+- Postman
+- Sass
+- NPM
+- ExpressJS
+- Git and Github
+- HTML
+- CSS
+- Javascript
+- C
+- Scratch
+- Netlify
+- Heroku
 am i missing something? 🤔
 
 - Find me on Scratch: https://scratch.mit.edu/users/abay2002/ ✨
