@@ -18,6 +18,7 @@
 - callback
 - promise
 - sync vs async
+
 am i missing something? 🤔
 
 == Miscellaneous
@@ -29,6 +30,7 @@ am i missing something? 🤔
 -- YAGNI
 -- DRY
 -- KISS
+
 am i missing something? 🤔
 
 == Framework, Language, Library and Stuffs
@@ -59,6 +61,7 @@ am i missing something? 🤔
 - Scratch
 - Netlify
 - Heroku
+
 am i missing something? 🤔
 
 - Find me on Scratch: https://scratch.mit.edu/users/abay2002/ ✨
